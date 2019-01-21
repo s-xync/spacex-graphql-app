@@ -1,0 +1,20 @@
+{
+  "name": "GraphQL-SpaceX-App",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "SaiKumar Immadi",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
