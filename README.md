@@ -10,6 +10,4 @@ The app uses *React* in the frontend for the UI.
 
 The app uses *React Apollo* in the frontend to communicate with the *GraphQL Server*.
 
-Finally, the app both frontend and backend are deployed on *Heroku*.
-
 #### Thanks!
